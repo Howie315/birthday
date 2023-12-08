@@ -11,7 +11,7 @@ export default () => (
       </div>
       <div className="cardInside">
         <h3 className="back">HAPPY BIRTHDAY MY BEAUTIFUL GIRLFRIEND MONGYOUNG</h3>
-        <p>Dear Friend,</p>
+        <p>Dear Baby,</p>
         <p className = "summary">
           Happy birthday!! I hope your day is filled with lots of love and
           laughter! May all of your birthday wishes come true.
